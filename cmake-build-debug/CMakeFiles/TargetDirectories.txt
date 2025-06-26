@@ -1,3 +1,0 @@
-/home/divyansh/Desktop/quant/OrderBook/cmake-build-debug/CMakeFiles/OrderBook.dir
-/home/divyansh/Desktop/quant/OrderBook/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/divyansh/Desktop/quant/OrderBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
